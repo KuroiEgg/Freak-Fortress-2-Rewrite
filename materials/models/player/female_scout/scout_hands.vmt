@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "models/player/female scout/scout_hands"
-	"$bumpmap" "models/player/scout/scout_hands_normal"
+	"$basetexture" "models/player/female_scout/scout_hands"
+	"$bumpmap" "models/player/female_scout/scout_hands_normal"
 
 	"$phong" "1"
 	"$phongexponent" "10"
