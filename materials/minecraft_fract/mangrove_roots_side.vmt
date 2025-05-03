@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/mangrove_roots_side"
+	"$surfaceprop" "Wood_Panel"
+	"$alphatest" 1
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/medium_amethyst_bud"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+}

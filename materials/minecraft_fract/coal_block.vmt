@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/coal_block"
+	"$surfaceprop" "Rock"
+}

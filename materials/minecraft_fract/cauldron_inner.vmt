@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/cauldron_inner"
+	"$surfaceprop" "Metal_Box"
+}

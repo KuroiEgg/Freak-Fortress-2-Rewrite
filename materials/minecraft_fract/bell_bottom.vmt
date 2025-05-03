@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/bell_bottom"
+	"$surfaceprop" "MetalPanel"
+	"$alphatest" 1
+}

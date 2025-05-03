@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/oak_sapling"
+	"$surfaceprop" "Grass"
+	"$translucent" 1
+}

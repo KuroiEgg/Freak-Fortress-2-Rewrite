@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/large_chest_end"
+	"$surfaceprop" "Wood_Box"
+}

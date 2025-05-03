@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/brewing_stand_base"
+	"$surfaceprop" "Concrete"
+}

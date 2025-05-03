@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/nether_wart_block"
+	"$surfaceprop" "Slime"
+}

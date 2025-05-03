@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/iron_door_bottom"
+	"$surfaceprop" "Metal"
+}

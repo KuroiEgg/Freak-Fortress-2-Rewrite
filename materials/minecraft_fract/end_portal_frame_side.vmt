@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/end_portal_frame_side"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+}

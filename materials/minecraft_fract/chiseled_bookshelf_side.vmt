@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/chiseled_bookshelf_side"
+	"$surfaceprop" "Wood_Furniture"
+}

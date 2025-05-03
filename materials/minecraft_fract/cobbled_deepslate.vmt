@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/cobbled_deepslate"
+	"$surfaceprop" "Rock"
+}

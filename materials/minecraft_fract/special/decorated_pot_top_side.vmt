@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/special/decorated_pot_top_side"
+	"$surfaceprop" "Tile"
+}

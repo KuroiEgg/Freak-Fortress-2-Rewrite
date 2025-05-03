@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/beehive_front"
+	"$surfaceprop" "Wood_Panel"
+}

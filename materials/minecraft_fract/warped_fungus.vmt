@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/warped_fungus"
+	"$surfaceprop" "Watermelon"
+	"$alphatest" 1
+}

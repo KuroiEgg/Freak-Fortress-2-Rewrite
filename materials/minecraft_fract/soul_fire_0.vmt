@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/soul_fire_0"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "20"
+}
+}
+}

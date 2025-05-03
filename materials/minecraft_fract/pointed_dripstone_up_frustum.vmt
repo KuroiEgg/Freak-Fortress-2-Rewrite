@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/pointed_dripstone_up_frustum"
+	"$surfaceprop" "Rock"
+	"$translucent" 1
+}

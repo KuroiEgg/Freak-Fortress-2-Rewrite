@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/special/bed_bottom"
+	"$surfaceprop" "Wood_Furniture"
+}

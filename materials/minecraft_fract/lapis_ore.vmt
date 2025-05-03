@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/lapis_ore"
+	"$surfaceprop" "Rock"
+}

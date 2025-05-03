@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/sculk_animated"
+	"$surfaceprop" "Dirt"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "3"
+}
+}
+}

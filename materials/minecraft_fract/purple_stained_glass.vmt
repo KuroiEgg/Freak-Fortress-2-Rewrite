@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/purple_stained_glass"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+}

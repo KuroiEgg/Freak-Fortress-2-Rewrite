@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/mangrove_door_top"
+	"$surfaceprop" "Wood_Plank"
+}

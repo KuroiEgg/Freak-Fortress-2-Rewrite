@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/turtle_egg_slightly_cracked"
+	"$surfaceprop" "Slime"
+	"$alphatest" 1
+}

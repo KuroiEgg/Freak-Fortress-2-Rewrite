@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/end_rod_base"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+}

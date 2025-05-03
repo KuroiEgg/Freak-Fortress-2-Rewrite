@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/daylight_detector_inverted_top"
+	"$surfaceprop" "Metal"
+}

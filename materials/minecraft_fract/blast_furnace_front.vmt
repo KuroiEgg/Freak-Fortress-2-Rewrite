@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/blast_furnace_front"
+	"$surfaceprop" "Concrete"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/light_gray_glazed_terracotta"
+	"$surfaceprop" "Concrete"
+}

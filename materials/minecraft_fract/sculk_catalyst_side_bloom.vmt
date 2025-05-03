@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/sculk_catalyst_side_bloom"
+	"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "8"
+}
+}
+}

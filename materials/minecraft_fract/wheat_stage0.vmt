@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/wheat_stage0"
+	"$surfaceprop" "Grass"
+	"$alphatest" 1
+}

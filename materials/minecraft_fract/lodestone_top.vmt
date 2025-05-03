@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/lodestone_top"
+	"$surfaceprop" "Concrete_Block"
+}

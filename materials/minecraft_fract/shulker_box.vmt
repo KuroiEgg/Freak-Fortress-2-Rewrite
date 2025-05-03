@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/shulker_box"
+	"$surfaceprop" "MetalPanel"
+}

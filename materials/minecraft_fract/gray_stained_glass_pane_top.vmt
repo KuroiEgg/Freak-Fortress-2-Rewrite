@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/gray_stained_glass_pane_top"
+	"$surfaceprop" "Glass"
+}

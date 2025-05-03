@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/quartz_pillar_top"
+	"$surfaceprop" "Tile"
+}

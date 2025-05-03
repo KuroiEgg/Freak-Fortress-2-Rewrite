@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/campfire_fire"
+	"$surfaceprop" "Default"
+	"$additive" 1
+
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "10"
+}
+}
+}

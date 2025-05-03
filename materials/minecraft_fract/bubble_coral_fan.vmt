@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/bubble_coral_fan"
+	"$surfaceprop" "Watermelon"
+	"$alphatest" 1
+}

@@ -1,0 +1,24 @@
+"LightMappedGeneric"
+{
+	"%compilewater" 1
+	"%compileKeepLight" 1
+	"$basetexture" "minecraft_fract/water_flow"
+	"$surfaceprop" "Water"
+	"$abovewater" 1
+	"$color" "{25 25 255}"
+	"$fogenable" 1
+	"$fogcolor" "{10 10 180}"
+	"$fogstart" "100"
+	"$fogend" "300"
+	"$bottommaterial" "minecraft_fract/water_flow"
+	"$translucent" 1
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "16"
+}
+}
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/twisting_vines_plant"
+	"$surfaceprop" "Grass"
+	"$alphatest" 1
+}

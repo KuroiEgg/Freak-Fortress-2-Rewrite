@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/spawner"
+	"$surfaceprop" "MetalGrate"
+	"$translucent" 1
+}

@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/sculk_sensor_tendril_active"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "16"
+}
+}
+}

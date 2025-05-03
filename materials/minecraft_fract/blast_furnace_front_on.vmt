@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/blast_furnace_front_on"
+	"$surfaceprop" "Concrete"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "1"
+}
+}
+}

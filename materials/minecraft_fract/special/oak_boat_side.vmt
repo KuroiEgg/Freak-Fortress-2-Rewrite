@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/special/oak_boat_side"
+	"$surfaceprop" "Wood_Plank"
+}

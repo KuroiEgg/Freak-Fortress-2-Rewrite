@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/bamboo_trapdoor"
+	"$surfaceprop" "Wood_Crate"
+	"$alphatest" 1
+}

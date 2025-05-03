@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/cobweb"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+}

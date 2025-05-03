@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/ender_lower_side"
+	"$surfaceprop" "Metal_Box"
+}

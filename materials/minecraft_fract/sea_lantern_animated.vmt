@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/sea_lantern_animated"
+	"$surfaceprop" "Glass"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "5"
+}
+}
+}

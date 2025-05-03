@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/cherry_log_top"
+	"$surfaceprop" "Wood_Solid"
+}

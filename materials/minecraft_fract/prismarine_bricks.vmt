@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/prismarine_bricks"
+	"$surfaceprop" "Concrete"
+}

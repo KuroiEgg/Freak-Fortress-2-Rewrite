@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/reinforced_deepslate_bottom"
+	"$surfaceprop" "Concrete"
+}

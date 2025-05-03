@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/piston_top"
+	"$surfaceprop" "Wood_Panel"
+}

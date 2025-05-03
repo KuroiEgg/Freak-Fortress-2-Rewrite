@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/crimson_stem"
+	"$surfaceprop" "Wood_Solid"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "4"
+}
+}
+}

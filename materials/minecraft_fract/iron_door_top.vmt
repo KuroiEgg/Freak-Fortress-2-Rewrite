@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/iron_door_top"
+	"$surfaceprop" "Metal"
+	"$alphatest" 1
+}

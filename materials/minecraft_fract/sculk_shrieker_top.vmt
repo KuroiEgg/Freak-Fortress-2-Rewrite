@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "minecraft_fract/sculk_shrieker_top"
+	"$surfaceprop" "Default"
+	"$translucent" 1
+}
