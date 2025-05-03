@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_fract/torch"
-	"$surfaceprop" "Wood_Panel"
-	"$alphatest" 1
-}

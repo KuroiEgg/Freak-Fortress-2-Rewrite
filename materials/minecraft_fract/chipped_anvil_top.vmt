@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_fract/chipped_anvil_top"
-	"$surfaceprop" "SolidMetal"
-	"$translucent" 1
-}

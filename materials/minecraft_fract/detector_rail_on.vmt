@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_fract/detector_rail_on"
-	"$surfaceprop" "Metal"
-	"$alphatest" 1
-}

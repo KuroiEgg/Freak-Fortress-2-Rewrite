@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_fract/lightning_rod"
-	"$surfaceprop" "Metal"
-	"$alphatest" 1
-}

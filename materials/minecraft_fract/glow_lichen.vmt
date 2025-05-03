@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_fract/glow_lichen"
-	"$surfaceprop" "Grass"
-	"$alphatest" 1
-}

@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_fract/gravel"
-	"$surfaceprop" "Dirt"
-}
-//If you make the surface Gravel you'll regret it -- fract

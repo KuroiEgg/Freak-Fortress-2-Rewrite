@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "minecraft_fract/dirt_path_side"
-	"$surfaceprop" "Dirt"
-	"$alphatest" 1
-}
