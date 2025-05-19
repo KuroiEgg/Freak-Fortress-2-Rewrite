@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"rf2/objects/matteleporterclean"
+	"$bumpmap"	"rf2/objects/teleporterbumpmap"
+	"$lightwarptexture"	"rf2/objects/teleporterlightmap"
+}
