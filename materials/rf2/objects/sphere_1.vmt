@@ -1,5 +1,0 @@
-"UnlitGeneric"
-{
-	$basetexture "rf2/objects/sphere_1"
-	$nocull 1
-}
